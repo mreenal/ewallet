@@ -1,6 +1,5 @@
-package com.kn.ewallet.resource;
+package com.kn.ewallet.api;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.kn.ewallet.dto.WalletDto;
 import com.kn.ewallet.exception.HttpException;
@@ -16,7 +15,6 @@ import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

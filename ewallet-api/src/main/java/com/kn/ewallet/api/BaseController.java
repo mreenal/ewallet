@@ -1,4 +1,4 @@
-package com.kn.ewallet.resource;
+package com.kn.ewallet.api;
 
 import com.kn.ewallet.exception.HttpException;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.kn.ewallet.resource;
+package com.kn.ewallet.api;
 
 import com.kn.ewallet.dto.WalletDto;
 import com.kn.ewallet.service.WalletService;
