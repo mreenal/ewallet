@@ -1,5 +1,3 @@
-This project hosts ewallet-api to create, edit wallet, add and withdraw funds to a wallet.
-
 #### build the app :
     mvn clean install
 	
